@@ -1,10 +1,10 @@
 # Welcome to team Dataset List!
 
-Our main goal is to create a website that lists all the datapackages on GitHub. We'll build the site using [Frictionless Livemark](https://livemark.frictionlessdata.io/).
+Our main goal is to create a website that lists all the data using datapackages & tableschema on GitHub. We'll build the site using [Frictionless Livemark](https://livemark.frictionlessdata.io/).
 
 ## Goals (see [issues](https://github.com/frictionlessdata/hackathon-dataset-list/issues) for each task)
 - Create a site using Livemark
-- Query/search GitHub to find datapackages
+- Query/search GitHub to find datapackages & tableschema
 - List the results on the new website
 - Ensure that the search happens on a regular basis so the information is up to date
 - Style the website so it matches other Frictionless sites
